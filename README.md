@@ -11,3 +11,5 @@ Problem Definition:
   Thats mean: Red store has to delivery min 20 orders - max 30 orders.
   
 
+
+![3](https://user-images.githubusercontent.com/19827096/53748089-afbe5580-3eb5-11e9-8511-36a160e8e0fa.JPG)
